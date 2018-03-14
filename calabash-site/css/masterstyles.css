@@ -1,0 +1,31 @@
+* {
+  text-align: center;
+  background-color: #2AB9E7;
+  font-family: cursive;
+}
+
+h1 {
+  color: #e7eff6;
+}
+
+h2 {
+  color:	#0000ff;
+
+}
+
+h3 {
+  font-weight: lighter;
+}
+
+em {
+  color:#f7e7b4;
+}
+
+li {
+  display: inline-block;
+}
+
+a {
+  font-family: monospace;
+  font-weight: lighter;
+}
